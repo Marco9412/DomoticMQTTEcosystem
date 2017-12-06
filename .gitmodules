@@ -1,0 +1,6 @@
+[submodule "DomoticBoards"]
+	path = DomoticBoards
+	url = git@github.com:Marco9412/DomoticBoards.git
+[submodule "MQTTNetworkSW"]
+	path = MQTTNetworkSW
+	url = git@github.com:Marco9412/MQTTNetworkSW.git
